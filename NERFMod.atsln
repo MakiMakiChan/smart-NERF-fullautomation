@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "NERFMod", "NERFMod\NERFMod.cproj", "{79CDB471-3A32-41D4-BCAC-A2B2866D5CEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79CDB471-3A32-41D4-BCAC-A2B2866D5CEF}.Debug|AVR.ActiveCfg = Debug|AVR
+		{79CDB471-3A32-41D4-BCAC-A2B2866D5CEF}.Debug|AVR.Build.0 = Debug|AVR
+		{79CDB471-3A32-41D4-BCAC-A2B2866D5CEF}.Release|AVR.ActiveCfg = Release|AVR
+		{79CDB471-3A32-41D4-BCAC-A2B2866D5CEF}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
